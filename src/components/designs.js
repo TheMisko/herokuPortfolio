@@ -8,14 +8,14 @@ export default function Designs() {
         {" "}
         <div className="zoom-effect-container">
           <div className="image-card">
-            <img src="https://i.imgur.com/W6fj9u5.jpg" />
+            <img src="https://assets-global.website-files.com/55e67eeba2e73cb76514f165/5987c18399d894000124c2e8_Master%20Web%20Design%20.png" />
           </div>
         </div>
       </Link>
       <Link to="/design-2" style={{ textDecoration: "none" }}>
         <div className="zoom-effect-container">
           <div className="image-card">
-            <img src="https://i.imgur.com/0rqcjND.jpg" />
+            <img src="https://assets-global.website-files.com/55e67eeba2e73cb76514f165/5987c18399d894000124c2e8_Master%20Web%20Design%20.png" />
           </div>
         </div>
       </Link>

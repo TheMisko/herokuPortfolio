@@ -39,16 +39,24 @@ export default function FilmOst() {
               <a>LIVE DEMO</a>
             </div>
           </a>
-
-          <div className="button" id="button-7">
-            <div id="dub-arrow">
-              <img
-                src="https://image.flaticon.com/icons/svg/25/25231.svg"
-                alt=""
-              />
+          <a
+            href="https://github.com/TheMisko/player"
+            style={{ textDecoration: "none" }}
+          >
+            <div className="button" id="button-7">
+              <div id="dub-arrow">
+                <img
+                  src="https://image.flaticon.com/icons/svg/25/25231.svg"
+                  alt=""
+                />
+              </div>
+              <a href="#">CODE</a>
             </div>
-            <a href="#">CODE</a>
-          </div>
+          </a>
+        </div>
+        <div className="load">
+          <div className="load1">It may take up to 2 minutes</div>
+          <div className="load2"> to load the app</div>
         </div>
       </div>
       <Footer />
